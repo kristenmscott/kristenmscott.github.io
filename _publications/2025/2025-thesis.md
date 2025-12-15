@@ -1,7 +1,7 @@
 ---
 title:          "Understanding Biased Representations of People in Algorithmic Decision Making"
 date:           2025-05-12 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "KU Leuven"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
